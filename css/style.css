@@ -17,11 +17,11 @@
 }
 
 .primaryColour{
-    background-color: #090d19;
+    background-color: #090d19!important;
     color: whitesmoke;
 }
 
 .secondaryColour{
-    background-color: #182243;
+    background-color: #182243!important;
     color: whitesmoke;
 }
