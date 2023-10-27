@@ -1,3 +1,7 @@
+*{
+    font-family: monospace;
+}
+
 #bg-image{
     /* The image used */
     background-image: url("https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaCR7ea6WxSC0Uuj3jmYoAE4qeFXXCVvRz7MHQzRiEXgk4siLcCHSLutGttCEAjEh9Wh7xIWRe3UDQFZgApN-wfzYgZr=w2480-h1688");
@@ -18,18 +22,22 @@
 
 .primaryColour{
     background-color: #090d19!important;
-    color: whitesmoke;
+    color: whitesmoke!important;
 }
 
 .secondaryColour{
     background-color: #182243!important;
-    color: whitesmoke;
+    color: whitesmoke!important;
+}
+
+#logo{
+    font-size: 30px!important;
 }
 
 #indexNav{
-    font-size: 30px;
+    font-size: 30px!important;
 }
 
 #indexJumbotron{
-    font-size: 40px;
+    font-size: 40px!important;
 }
