@@ -43,3 +43,26 @@
 .jumbotronText{
     font-size: 60px!important;
 }
+
+#paceTableContainer{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    border-radius: 20px;
+}
+
+#paceTable{
+    text-align: center;
+    border-radius: 15px;
+    margin-bottom: 0px;
+    overflow: hidden; /* Hide scrollbars */
+}
+
+#paceTable tr:nth-child(odd){
+    background-color: #182243;
+    color: whitesmoke;
+}
+
+#paceTable tr:nth-child(even){
+    background-color: #090d19;
+    color: whitesmoke;
+    /* */
+}
