@@ -30,6 +30,10 @@
     color: whitesmoke!important;
 }
 
+.pageHeaders{
+    font-size: 40px;
+}
+
 #logo{
     font-size: 30px!important;
 }
@@ -38,6 +42,6 @@
     font-size: 30px!important;
 }
 
-#indexJumbotron{
-    font-size: 40px!important;
+.pageJumbotrons{
+    font-size: 60px!important;
 }
