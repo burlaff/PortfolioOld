@@ -21,7 +21,7 @@
 }
 
 .primaryColour {
-    background-color: #090d19 !important;
+    background-color: #0c1225 !important;
     color: whitesmoke !important;
 }
 
@@ -67,7 +67,7 @@
 
 #paceTable > tbody > tr:nth-child(odd) > td,
 tr.found {
-    background-color: #090d19;
+    background-color: #0c1225;
     color: whitesmoke;
 }
 
