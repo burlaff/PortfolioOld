@@ -65,13 +65,13 @@
 }
 
 
-.table-striped > tbody > tr:nth-child(odd) > td,
+#paceTable > tbody > tr:nth-child(odd) > td,
 tr.found {
     background-color: #090d19;
     color: whitesmoke;
 }
 
-.table-striped > tbody > tr:nth-child(even) > td,
+#paceTable > tbody > tr:nth-child(even) > td,
 tr.found {
     background-color: #182243;
     color: whitesmoke;
